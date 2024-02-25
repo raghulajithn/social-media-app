@@ -31,9 +31,6 @@ git clone https://github.com/raghulajithn/social-media-app.git
 ```
 cd social-media-app
 npm install
-cd client
-npm install
-```
 
 3. Create .env in root directory
 
@@ -51,11 +48,4 @@ PORT=4000
 npm run server
 ```
 
-6. Start a new terminal and run react's development server
-
-```
-cd social-media-app
-cd client
-npm start
-```
 
